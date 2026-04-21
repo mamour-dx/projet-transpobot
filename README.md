@@ -1,4 +1,4 @@
-# TranspoBot — Projet GLSi L3 ESP/UCAD
+# TranspoBot — Projet SGBD
 
 ## Démarrage rapide
 
@@ -18,11 +18,6 @@
 5. Ouvrir index.html dans un navigateur
    (mettre l'URL du backend dans la variable API de index.html)
 
-## Livrables à rendre
-- Lien plateforme déployée (Railway/Render)
-- Lien interface de chat
-- Rapport PDF (MCD, MLD, architecture, tests)
-- Présentation PowerPoint (démo)
 
 ## Technologies
 - Backend : FastAPI (Python)
